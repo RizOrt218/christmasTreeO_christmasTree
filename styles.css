@@ -1,1 +1,42 @@
+body {
+  background-image: url('https://img1.etsystatic.com/030/0/8666184/il_fullxfull.538318339_63j0.jpg');
+  background-size: 120%;
+  background-repeat: no-repeat;
+  background: transparent\6;
+}
 
+#header {
+  font-size: 45px;
+  color: red;
+  text-shadow: 2px 2px grey;
+  border-bottom: 2px solid white;
+  padding: 0;
+}
+
+#star {
+  background-image: url('http://www.picgifs.com/graphics/c/christmas-star/graphics-christmas-star-814393.gif');
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 240px;
+
+}
+
+#tree {
+  margin-top: -50px;
+  transition: all 0.2s ease;
+}
+
+#tree:hover {
+  text-shadow: 0px 0 15px blue;
+}
+
+body div {
+  font-family: oswald;
+  text-align: center;
+  color: green;
+  font-size: 25px;
+}
+
+#trunk {
+  color: #AB7942;
+}
