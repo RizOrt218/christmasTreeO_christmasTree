@@ -7,4 +7,5 @@ function formBranches() {
     tree.innerHTML +='<br/>' + branches + '*';
   }
 }
+
 formBranches();
